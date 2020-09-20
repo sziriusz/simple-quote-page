@@ -1,1 +1,1 @@
-# simple-quote-page
+This repository includes my first Github project.
